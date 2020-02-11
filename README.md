@@ -1,5 +1,4 @@
-# CSharp
-A collection of projects coded primarily using C#
+# C#
 
 Content Description.
 
