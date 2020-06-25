@@ -2,7 +2,7 @@
 
 Project Name: (motivation, created)
 
-- Content Description.
+- Content description.
 
 WPF_MVVM: (assignment 2019)
 
