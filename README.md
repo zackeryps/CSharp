@@ -1,8 +1,8 @@
 # C#
 
-Content Description.
-
 Name: (motivation, created)
+
+- Content Description.
 
 WPF_MVVM: (assignment 2019)
 
